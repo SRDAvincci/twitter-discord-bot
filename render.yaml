@@ -1,4 +1,4 @@
-```yaml id="n2x7b4"
+```yaml
 services:
   - type: worker
     name: twitter-discord-bot
