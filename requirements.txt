@@ -1,3 +1,4 @@
+```text id="j9d2l7"
 requests
 beautifulsoup4
-
+```
