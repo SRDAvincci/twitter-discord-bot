@@ -1,8 +1,6 @@
-```yaml id="n2x7b4"
 services:
   - type: worker
     name: twitter-discord-bot
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python main.py
-```
